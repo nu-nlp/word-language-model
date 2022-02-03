@@ -1,7 +1,10 @@
 # Setup
 
-Go to the root and run: `conda env create -f environment.yml`
-Your conda environment is named `wml`.
+Go to the root and run: 
+```
+conda env create -f environment.yml
+conda activate wml
+```
 
 # Word-level language modeling RNN
 
