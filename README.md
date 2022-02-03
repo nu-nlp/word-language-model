@@ -1,3 +1,11 @@
+# Setup
+
+Go to the root and run: 
+```
+conda env create -f environment.yml
+conda activate wml
+```
+
 # Word-level language modeling RNN
 
 This example trains a multi-layer RNN (Elman, GRU, or LSTM) on a language modeling task.
