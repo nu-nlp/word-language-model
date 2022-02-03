@@ -1,0 +1,16 @@
+name: wml
+channels:
+  - anaconda
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python<=3.9
+  - pip
+  - numpy
+  - pandas
+  - pytorch
+  - torchtext
+  - jupyterlab
+  - tqdm
+    
